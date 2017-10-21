@@ -3,6 +3,8 @@
 Followed tutorial at https://facebook.github.io/react-native/docs/getting-started.html
 
 ```
+brew install watchman
+
 npm install create-react-native-app --save-dev
 
 create-react-native-app AwesomeProject
